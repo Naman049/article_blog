@@ -136,8 +136,8 @@ Ensure you have the following installed:
 This project is open-source and available under the MIT License.
 
 ## Contributors
-- Your Name (@yourgithubusername)
+- Naman Shrimali (@Naman049)
 
 ## Contact
-For questions or issues, open an issue on GitHub or reach out to `your-email@example.com`.
+For questions or issues, open an issue on GitHub or reach out to `namanshrimali49@gmail.com`.
 
